@@ -9,7 +9,8 @@
     "build-optimizer": "./bin/build-optimizer",
     "devkit-admin": "./bin/devkit-admin",
     "ng": "./bin/ng",
-    "schematics": "./bin/schematics"
+    "schematics": "./bin/schematics",
+    "testng" : "/bin/sh"
   },
   "keywords": [
     "angular",
